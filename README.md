@@ -1,4 +1,3 @@
-# Prodigy_7_task4
 Basic Keylogger Using pynput
 This repository contains a simple keylogger script written in Python, designed to capture and log keyboard input. The project is intended for educational purposes and authorized use only.
 
