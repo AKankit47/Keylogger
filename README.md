@@ -46,7 +46,7 @@ pip install pynput
 ### **1. Clone the Repository**
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/AKankit47/Prodigy_7_task4.git
+git clone https://github.com/AKankit47/Keylogger.git
 cd Prodigy_7_task4
 ```
 
